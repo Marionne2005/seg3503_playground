@@ -47,7 +47,7 @@ Screenshots :
 ![TC2 - Username invalide](assets/username_invalid.png)
 ![TC3 - Email invalide](assets/email_invalide.png)
 ![TC4 - Age vide](assets/age_invalid.png)
-![TC5 - Code postal invalide](assets/codepostal_invalid.png)
+![TC5 - Code postal invalide](assets/codepostal_invalid.jpeg)
 
 ---
 
@@ -84,4 +84,4 @@ java -jar lib\junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 | BitTest (JUnit 5) | 14 | ✅ Tous réussis |
 | BitAndTest (JUnit 4 Parameterized) | 4 | ✅ Tous réussis |
 
-![Test run - 58/58](assets/junit_results.png)
+![Test run - 58/58](assets/tests_successful.png)
