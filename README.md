@@ -42,12 +42,12 @@ iex.bat -S mix
 
 Screenshots :
 
-![TC1 - Formulaire valide](assets/formulaire_valide.png)
-![TC1 - Résultat](assets/formulaire_valide.png)
-![TC2 - Username invalide](assets/username_invalid.png)
-![TC3 - Email invalide](assets/email_invalide.png)
-![TC4 - Age vide](assets/age_invalid.png)
-![TC5 - Code postal invalide](assets/codepostal_invalid.jpeg)
+![TC1 - Formulaire valide](/lab02/assets/formulaire_valide.png)
+![TC1 - Résultat](/lab02/assets/formulaire_valide.png)
+![TC2 - Username invalide](/lab02/assets/username_invalid.png)
+![TC3 - Email invalide](/lab02/assets/email_invalide.png)
+![TC4 - Age vide](/lab02/assets/age_invalid.png)
+![TC5 - Code postal invalide](/lab02/assets/codepostal_invalid.jpeg)
 
 ---
 
@@ -60,7 +60,7 @@ javac -encoding UTF-8 --source-path test -d dist -cp "dist;lib\junit-platform-co
 java -jar lib\junit-platform-console-standalone-1.7.1.jar --class-path dist --scan-class-path
 ```
 
-![Résultats JUnit](assets/tests_successful.png)
+![Résultats JUnit](/lab02/assets/tests_successful.png)
 
 ---
 
@@ -84,4 +84,4 @@ java -jar lib\junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 | BitTest (JUnit 5) | 14 | ✅ Tous réussis |
 | BitAndTest (JUnit 4 Parameterized) | 4 | ✅ Tous réussis |
 
-![Test run - 58/58](assets/tests_successful.png)
+![Test run - 58/58](/lab02/assets/tests_successful.png)
