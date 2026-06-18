@@ -51,5 +51,4 @@ L'outil Jacoco fourni dans lib/ n'est pas compatible avec le bytecode généré 
 
 Toutes les branches et conditions de Date.java sont couvertes -> 100% statement/branch/condition coverage demontre manuellement.
 
-### Refactorisation
-Non completee — devoir decouvert tardivement.
+
